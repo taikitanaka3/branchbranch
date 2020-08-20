@@ -1,3 +1,0 @@
-## scenario PR template
-
-test
